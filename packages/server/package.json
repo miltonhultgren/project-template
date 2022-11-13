@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "NodeJS server that uses Express to expose a HTTP API that connects to MySQL using Knex",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonhultgren/project-template.git"
+  },
+  "author": "HackYourFuture-CPH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miltonhultgren/project-template/issues"
+  },
+  "homepage": "https://github.com/miltonhultgren/project-template#readme",
+  "dependencies": {
+    "hyf-common": "^1.0.0"
+  }
+}

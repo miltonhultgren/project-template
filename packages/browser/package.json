@@ -1,0 +1,22 @@
+{
+  "name": "browser",
+  "version": "1.0.0",
+  "description": "A React application that communicates with the server to display data from the HTTP API",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonhultgren/project-template.git"
+  },
+  "author": "HackYourFuture-CPH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miltonhultgren/project-template/issues"
+  },
+  "homepage": "https://github.com/miltonhultgren/project-template#readme",
+  "dependencies": {
+    "hyf-common": "^1.0.0"
+  }
+}

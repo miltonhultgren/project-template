@@ -1,0 +1,22 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "A template for JavaScript projects using React, Express, Knex",
+  "main": "README.md",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonhultgren/project-template.git"
+  },
+  "author": "HackYourFuture-CPH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miltonhultgren/project-template/issues"
+  },
+  "homepage": "https://github.com/miltonhultgren/project-template#readme",
+  "workspaces": [
+    "packages/hyf-common",
+    "packages/server",
+    "packages/browser"
+  ]
+}

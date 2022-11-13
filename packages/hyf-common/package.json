@@ -1,0 +1,19 @@
+{
+  "name": "hyf-common",
+  "version": "1.0.0",
+  "description": "Code that is shared between the server and browser packages",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonhultgren/project-template.git"
+  },
+  "author": "HackYourFuture-CPH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miltonhultgren/project-template/issues"
+  },
+  "homepage": "https://github.com/miltonhultgren/project-template#readme"
+}
