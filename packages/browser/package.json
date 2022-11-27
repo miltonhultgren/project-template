@@ -4,7 +4,8 @@
   "description": "A React application that communicates with the server to display data from the HTTP API",
   "main": "index.js",
   "scripts": {
-    
+    "dev": "webpack serve --open",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/miltonhultgren/project-template#readme",
   "dependencies": {
-    "hyf-common": "^1.0.0"
+    "hyf-common": "^1.0.0",
+    "lodash": "^4.17.21"
   }
 }

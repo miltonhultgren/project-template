@@ -2,9 +2,11 @@
   "name": "server",
   "version": "1.0.0",
   "description": "NodeJS server that uses Express to expose a HTTP API that connects to MySQL using Knex",
-  "type": "module",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/miltonhultgren/project-template.git"

@@ -18,5 +18,12 @@
     "packages/hyf-common",
     "packages/server",
     "packages/browser"
-  ]
+  ],
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "nodemon-webpack-plugin": "^4.8.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "webpack-dev-server": "^4.11.1"
+  }
 }
