@@ -2,7 +2,7 @@
   "name": "browser",
   "version": "1.0.0",
   "description": "A React application that communicates with the server to display data from the HTTP API",
-  "main": "index.js",
+  "main": "src/index.jsx",
   "scripts": {
     "dev": "webpack serve --open",
     "build": "webpack"
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/miltonhultgren/project-template#readme",
   "dependencies": {
     "hyf-common": "^1.0.0",
-    "lodash": "^4.17.21"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3"
   }
 }
